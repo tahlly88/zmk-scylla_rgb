@@ -1,10 +1,4 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#undef ZMK_BEHAVIORS_KEEP_ALL
-
-#define ZMK_BEHAVIORS_KEEP_SK
-#define ZMK_BEHAVIORS_KEEP_MT
-#define ZMK_BEHAVIORS_KEEP_KT
-
 
 / {
     chosen {
