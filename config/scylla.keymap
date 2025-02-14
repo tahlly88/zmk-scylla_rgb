@@ -12,11 +12,11 @@
 
         default_layer {
             bindings = <
-&gresc          &kp N1  &kp N2  &kp N3        &kp N4              &kp N5                &kp N6               &kp N7                &kp N8                &kp N9   &kp N0    &kp BSPC
-&kp DEL         &kp Q   &kp W   &kp E         &kp R               &kp T                 &kp Y                &kp U                 &kp I                 &kp O    &kp P     &kp MINUS
-&kp TAB         &kp A   &kp S   &kp D         &kp F               &kp G                 &kp H                &kp J                 &kp K                 &kp L    &kp SEMI  &kp SQT
-&kp LEFT_SHIFT  &kp Z   &kp X   &kp C         &kp V               &kp B                 &kp N                &kp M                 &kp COMMA             &kp DOT  &kp FSLH  &mt RIGHT_SHIFT BACKSLASH
-                                &kp LEFT_GUI  &mt LEFT_ALT ENTER  &lt 1 EQUAL           &kp GLOBE            &kp SPACE             &kp NON_US_BACKSLASH
+&gresc          &kp N1  &kp N2  &kp N3        &kp N4              &kp N5                &kp N6               &kp N7                &kp N8         &kp N9   &kp N0    &kp BSPC
+&kp DEL         &kp Q   &kp W   &kp E         &kp R               &kp T                 &kp Y                &kp U                 &kp I          &kp O    &kp P     &kp MINUS
+&kp TAB         &kp A   &kp S   &kp D         &kp F               &kp G                 &kp H                &kp J                 &kp K          &kp L    &kp SEMI  &kp SQT
+&kp LEFT_SHIFT  &kp Z   &kp X   &kp C         &kp V               &kp B                 &kp N                &kp M                 &kp COMMA      &kp DOT  &kp FSLH  &mt RIGHT_SHIFT BACKSLASH
+                                &kp LEFT_GUI  &mt LEFT_ALT ENTER  &lt 1 EQUAL           &kp GLOBE            &kp SPACE             &kp BACKSLASH
                                               &kp LCTRL           &lt 3 LEFT_BRACKET    &lt 2 RIGHT_BRACKET  &kp LG(LS(NUMBER_4))
             >;
         };
